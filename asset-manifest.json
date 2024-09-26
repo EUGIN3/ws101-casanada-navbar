@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-casanada-navbar/static/css/main.fa57b06c.css",
+    "main.js": "/ws101-casanada-navbar/static/js/main.d0eee903.js",
+    "index.html": "/ws101-casanada-navbar/index.html",
+    "main.fa57b06c.css.map": "/ws101-casanada-navbar/static/css/main.fa57b06c.css.map",
+    "main.d0eee903.js.map": "/ws101-casanada-navbar/static/js/main.d0eee903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa57b06c.css",
+    "static/js/main.d0eee903.js"
+  ]
+}
